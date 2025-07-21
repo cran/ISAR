@@ -3,7 +3,7 @@
 \docType{data}
 \name{nba_ff_team_2023}
 \alias{nba_ff_team_2023}
-\title{NBA Four Factors (Team) for the 2020-21 Season}
+\title{NBA Four Factors (Team) for the 2022-23 Season}
 \format{
 A data frame with 2460 rows and 14 variables:
 \describe{

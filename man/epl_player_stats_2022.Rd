@@ -5,7 +5,7 @@
 \alias{epl_player_stats_2022}
 \title{2021-2022 English Premier League Player Statistics}
 \format{
-A data frame with 314 rows and 13 variables:
+A data frame with 545 rows and 35 variables:
 \describe{
   \item{player}{Player name}
   \item{nation}{Player home country}

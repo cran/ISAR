@@ -1,4 +1,4 @@
-#' NBA Four Factors (Team) for the 2020-21 Season
+#' NBA Four Factors (Team) for the 2022-23 Season
 #'
 #' A dataset containing the NBA Four Factor table on nba.com
 #'

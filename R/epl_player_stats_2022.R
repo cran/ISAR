@@ -2,7 +2,7 @@
 #'
 #' A dataset containing individual player statistics for the English Premier League's 2021 - 2022 season
 #'
-#' @format A data frame with 314 rows and 13 variables:
+#' @format A data frame with 545 rows and 35 variables:
 #' \describe{
 #'   \item{player}{Player name}
 #'   \item{nation}{Player home country}

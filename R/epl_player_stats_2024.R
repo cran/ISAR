@@ -2,7 +2,7 @@
 #'
 #' A dataset containing individual player statistics for the English Premier League's 2023 - 2024 season
 #'
-#' @format A data frame with 569 rows and 38 variables:
+#' @format A data frame with 580 rows and 38 variables:
 #' \describe{
 #'   \item{season_end_year}{Calendar year when season ended}
 #'   \item{squad}{Player team}

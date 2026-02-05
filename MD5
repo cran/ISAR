@@ -1,4 +1,4 @@
-d87383ad58e3ce84d192c551e43421ce *DESCRIPTION
+fddd55945e38a49dba6ea43e32e02b4a *DESCRIPTION
 0df196d66db503b1604e1a31f9503087 *LICENSE
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 e495423b6cb65b7794d1621b345282e0 *NEWS.md
@@ -44,6 +44,10 @@ bcfa2228c4acbdecb842b971dd3db8f8 *R/nhl_data_hockey_reference.R
 985ef34f06c8db4e28c53aaebac2c37c *R/nwsl_player_stats_2024.R
 5b18b7747b8517f3d86bbf5fd16f2853 *R/ow_golf_rankings.R
 fe66a2b752c9744ebdaaaa277482a9b3 *R/pga_tournamentss.R
+18c596433ae8932a2a507e61971554cf *R/wnba_player_shots_2024.R
+817b76d29519943f1f97ba6675fb5780 *R/wnba_player_shots_2025.R
+bd15be5e37e385f6f01bd42858d7798b *R/wnba_seattle_pbp_2024.R
+9cd8504cc306a4d6a475741d877e7c86 *R/wnba_seattle_pbp_2025.R
 e0e6c1265e5dc156051d521d119c0166 *README.md
 31a0f7c5cf4e8d1321dedf7dfc9bb69b *data/avs_roster_2021.rda
 65a03cdbc417949162dec93bd9c23923 *data/avs_roster_2022.rda
@@ -87,6 +91,10 @@ aa7d8306013fbef76d6e88f0acba6478 *data/nhl_team_stats_2022.rda
 07a8541978e1c4543ab5c33fa69083b8 *data/nwsl_player_stats_2024.rda
 8430a9658aad9c9d1ebcfec05ae96c46 *data/ow_golf_rankings.rda
 13474b89ca0fbd739a5b037aa4e3b800 *data/pga_tournaments.rda
+e5fce23ad9573c6a3722ed119665bd5f *data/wnba_player_shots_2024.rda
+3427cbb6185fab73f780d6f1d6d72fa8 *data/wnba_player_shots_2025.rda
+7f6f36f8c96d814b77fc37b32dd59dc6 *data/wnba_seattle_pbp_2024.rda
+ac520ee0baefc9e97a54ef9a2b49b4f1 *data/wnba_seattle_pbp_2025.rda
 ff9be4a6ebdeee5ca203ea04101c2dde *inst/images/nba_court.jpg
 d428cca2cd73638cc2cbf8eb8c194b51 *man/avs_roster_2021.Rd
 df56e8868e11ca4c582f0bf8e76c0c8a *man/avs_roster_2022.Rd
@@ -130,3 +138,7 @@ eb08b83d6b086f5a0b2df928fd174ec0 *man/nhl_team_stats_2021.Rd
 a297fd486f104951a220c9cc1081c5d3 *man/nwsl_player_stats_2024.Rd
 2d746c6cdadb533cbb233ca31e0a131a *man/ow_golf_rankings.Rd
 b6a327fc57f809bdf2aeab11a9ec9864 *man/pga_tournaments.Rd
+316093f43bed14254013d3b2e886a902 *man/wnba_player_shots_2024.Rd
+8805cfcd510905b703cc5456180e5f79 *man/wnba_player_shots_2025.Rd
+39895bf08b8dfa723448ebecb36e7b20 *man/wnba_seattle_pbp_2024.Rd
+5f7a6c8b966da83c933049608dfaef5c *man/wnba_seattle_pbp_2025.Rd

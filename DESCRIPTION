@@ -1,7 +1,7 @@
 Package: ISAR
 Type: Package
 Title: Introduction to Sports Analytics using R (ISAR) Data
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: c(
     person("Ryan", "Elmore", email = "Ryan.Elmore@du.edu", role = c("cre", "aut")))
 Maintainer: Ryan Elmore <Ryan.Elmore@du.edu>
@@ -10,11 +10,11 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 3.5)
-RoxygenNote: 7.3.2
+RoxygenNote: 7.3.3
 URL: https://github.com/rtelmore/ISAR
 BugReports: https://github.com/rtelmore/ISAR/issues
 NeedsCompilation: no
-Packaged: 2025-08-15 19:39:48 UTC; ryanelmore
+Packaged: 2026-02-05 16:56:05 UTC; ryanelmore
 Author: Ryan Elmore [cre, aut]
 Repository: CRAN
-Date/Publication: 2025-08-18 17:50:14 UTC
+Date/Publication: 2026-02-05 17:10:10 UTC

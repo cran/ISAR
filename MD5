@@ -1,4 +1,4 @@
-fddd55945e38a49dba6ea43e32e02b4a *DESCRIPTION
+cc856d829a3b23bf6ca53e9045780480 *DESCRIPTION
 0df196d66db503b1604e1a31f9503087 *LICENSE
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 e495423b6cb65b7794d1621b345282e0 *NEWS.md
@@ -36,6 +36,7 @@ e90c3205d4bddad4ed4f61651612218f *R/nba_games_2023.R
 78d32c484705d9b20e8b15eaecbf603d *R/nba_games_2024.R
 786d9ad85b36200f04a7a6cb8321cc7c *R/nba_games_2025.R
 0f1380809f03a94d326cd5fc8e48b8a5 *R/nba_nuggets_shots.R
+84c2432576d9bcda5fa8e30a0b3ea766 *R/nba_nuggets_shots_2025.R
 bcfa2228c4acbdecb842b971dd3db8f8 *R/nhl_data_hockey_reference.R
 54fd6c2ea093837088393cc92696e770 *R/nhl_team_stats_2021.R
 88a4f7c34343edd983b8bd3a65e1ea39 *R/nhl_team_stats_2022.R
@@ -83,6 +84,7 @@ e34ed3a8d004aedec244058e2ae073c5 *data/nba_games_2023.rda
 763ef0f0ab936fab510c7692e81bbccc *data/nba_games_2024.rda
 6cfd62656512344034f3c967194444a2 *data/nba_games_2025.rda
 0b8cd1bd4cfa6e93444fbc7d2caa36c2 *data/nba_nuggets_shots.rda
+105dc010fcd6c0467dc6e46df8058857 *data/nba_nuggets_shots_2025.rda
 1f072ceb572b88a3704c17c6128a2d2a *data/nhl_data_hockey_reference.rda
 85b75da2e54bf266cc836cfd92844331 *data/nhl_team_stats_2021.rda
 aa7d8306013fbef76d6e88f0acba6478 *data/nhl_team_stats_2022.rda
@@ -130,6 +132,7 @@ d00cf9c48fcf7b51fc7a7dba9f824467 *man/nba_games_2021.Rd
 eb2bb5881d867906f491f6d4616c8a8c *man/nba_games_2024.Rd
 7601805a2216d1b4115cd83d98b2568c *man/nba_games_2025.Rd
 8c55d562353df3dd62fd6c7a203c5430 *man/nba_nuggets_shots.Rd
+41608ebaf5780e712f0ea3832955b393 *man/nba_nuggets_shots_2025.Rd
 307ca9f313b41dacda65e6ede6255ff2 *man/nhl_data_hockey_reference.Rd
 eb08b83d6b086f5a0b2df928fd174ec0 *man/nhl_team_stats_2021.Rd
 219eaa15ed42cf002f89c91771463b53 *man/nhl_team_stats_2022.Rd

@@ -1,4 +1,4 @@
-cc856d829a3b23bf6ca53e9045780480 *DESCRIPTION
+e978fdcfd05faf73370f68d0662c1e98 *DESCRIPTION
 0df196d66db503b1604e1a31f9503087 *LICENSE
 dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
 e495423b6cb65b7794d1621b345282e0 *NEWS.md
@@ -6,7 +6,8 @@ c35f4bccd5f3d5bd2f357dfa76fc68b4 *R/avs_roster_2021.R
 dfc31f8c8896f893193f8eee28a2eec4 *R/avs_roster_2022.R
 29371d3c8095852150f89b046e44d267 *R/avs_stats_2021.R
 0051e6f11db76ad24033c7b43f757519 *R/avs_stats_2022.R
-4ded9c21d399c880e417557fac06b1a2 *R/draftkings-edm-col.R
+059eb8cc86afd251be2061e43d262bd8 *R/draftkings-bos-buf.R
+26ec67f222eb9678c5961293451fdab7 *R/draftkings-edm-col.R
 465634a47c1d860b16bb0fe93d9649a6 *R/draftkings-lac-dal.R
 4bca35772ab70c482c1f3dab7ec00137 *R/draftkings-mem-utah.R
 d1e248c42950b9c8e3f0fd6abc07bdcc *R/draftkings-nyr-car.R
@@ -23,6 +24,7 @@ a686e29371e951d2162fa6410170512e *R/epl_player_stats_2023.R
 3fe14ee4c9a4c2eac32ed31dd26dcc05 *R/epl_team_stats_2024.R
 4dbef41b070f38fd968d941b445a4728 *R/epl_team_stats_2025.R
 83c9c7cacbf1659170b5bb7d64a6a477 *R/masters.R
+a4486d0795a91b0506de8ae3ecf6c467 *R/masters_2025.R
 99401826d3b56994fbdef863778334ee *R/nba_advanced_team_2021.R
 9a18d1460e3471a4437d854869bf5952 *R/nba_advanced_team_2023.R
 b5b98475fc3011adb4eb6cde51802142 *R/nba_advanced_team_2024.R
@@ -54,6 +56,7 @@ e0e6c1265e5dc156051d521d119c0166 *README.md
 65a03cdbc417949162dec93bd9c23923 *data/avs_roster_2022.rda
 8382e3afd41780c887c7c1d9e4ba0706 *data/avs_stats_2021.rda
 d4137c4095bf52a48a83e0c17b8f15ee *data/avs_stats_2022.rda
+40dc5080b44059cff1c15d121b067922 *data/dk_bos_buf.rda
 aaecb061a8e4c25f3776a4b7481be629 *data/dk_edm_col.rda
 c9c653169da587b58e888619278af885 *data/dk_lac_dal.rda
 1bfddd172cd49ccd7a8300e77d374022 *data/dk_mem_utah.rda
@@ -71,6 +74,7 @@ efd04fd2fe547774da2aa4e15d17f260 *data/epl_team_stats_2023.rda
 8250c780ea1fb1f657aab4a3d230f00d *data/epl_team_stats_2024.rda
 c665fa59b20b6e6c5afdd0bae82d831a *data/epl_team_stats_2025.rda
 d11590b25fda46d4767e98368756a01c *data/masters.rda
+91dd5d2c8fd9cd9a0bc85fbd32fa27c3 *data/masters_2025.rda
 f4ba24ba9a99d43e3d40c8c805f17520 *data/nba_adv_team_2021.rda
 a05d04c7d6a043c27796cc01f7e903c1 *data/nba_adv_team_2023.rda
 f402cc2763d88e7eb67b2df8f20819ec *data/nba_adv_team_2024.rda
@@ -102,7 +106,8 @@ d428cca2cd73638cc2cbf8eb8c194b51 *man/avs_roster_2021.Rd
 df56e8868e11ca4c582f0bf8e76c0c8a *man/avs_roster_2022.Rd
 f8d4169441039aa6e258a7c5d7200528 *man/avs_stats_2021.Rd
 7360452b2b576d19136be138f9e8745e *man/avs_stats_2022.Rd
-6d00bed6a977a68ed0a6cdd3f55c013a *man/dk_edm_col.Rd
+3b342f554a7c947e4287e4d68e123676 *man/dk_bos_buf.Rd
+f6e1efcb3c22858ad11fb5ba06cb5604 *man/dk_edm_col.Rd
 75b93fbc6bb65deb2579cdb3b68a4dac *man/dk_lac_dal.Rd
 96ca3f03bd7e47c7677e14ddcebad4ab *man/dk_mem_utah.Rd
 5d41987a3cec0f49ac4b13c2e92445d0 *man/dk_nyr_car.Rd
@@ -119,6 +124,7 @@ ebe2fb307de04038df304ab7ee93a529 *man/epl_team_stats_2023.Rd
 f01cf75575a97a35e34b384f878ab6f4 *man/epl_team_stats_2024.Rd
 01f357424d89051bd51153a165c74c98 *man/epl_team_stats_2025.Rd
 b874d211c856556da3ece37dac06b1c4 *man/masters.Rd
+3fafb8ea8ab83f875b1eba1fda494ab4 *man/masters_2025.Rd
 f43216bdaa469183b0fa0f9547953fa1 *man/nba_adv_team_2021.Rd
 01f30eaaad2033e3f8989a4ca0b542c9 *man/nba_adv_team_2023.Rd
 161141d05e061a237541b39db72fcb85 *man/nba_adv_team_2024.Rd
